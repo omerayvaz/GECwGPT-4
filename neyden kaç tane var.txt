@@ -1,0 +1,21 @@
+1- Mobile Device Security -> 135
+2- Passwords and Authentication -> 127
+3- Risks of public WiFi -> 125
+4- Lightweight cryptography -> 133
+5- Secure Hashing -> 126
+6- Privacy Engineering -> 124
+7- Zero Trust Model -> 133
+8- IoT Security -> 129
+9- Social Engineering Attacks -> 131
+10- Cloud-based Security -> 126
+11- Digital Signatures -> 128
+12- Personal Identity Verification -> 132
+13- Trustworthiness -> 130
+14- Public Key Infrastructure -> 129
+15- Private Key Infrastructure -> 130
+16- Brute Force Attack -> 133
+17- Penetration Testing -> 133
+18- Information Systems Security -> 128
+19- Zero-day Exploit -> 130
+20- Data Privacy -> 133
+21- Multi-Factor Authentication -> 130
